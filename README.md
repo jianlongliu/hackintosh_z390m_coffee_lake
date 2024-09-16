@@ -23,3 +23,7 @@ AltTab、Bartender、iStat Menus、FlClash、Loop、Karabiner Elements 等。
 
 ## 鸣谢
 基于 OpenCore 官方指南及社区资源整理。
+
+> https://dortania.github.io/OpenCore-Install-Guide/
+>
+> https://jianlongliu.github.io/posts/1e5fcd72.html
